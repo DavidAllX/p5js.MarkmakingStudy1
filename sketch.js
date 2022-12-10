@@ -1,51 +1,67 @@
-const json = [{"StoryDNA":"AWAKEN","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:43"},{"StoryDNA":"\"We stand shouldered up with all of those that believe in peace","VersionDate":" love and free expression.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"\"The thinkers","VersionDate":" the artists","CreationTime(PDT)":" the visionaries"},{"StoryDNA":"To right a wrong.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:45"},{"StoryDNA":"To shine a light on an injustice.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:45"},{"StoryDNA":"To create beauty for the sake of creating beauty.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:45"},{"StoryDNA":"And for the belief that somehow someone somewhere could have a better life","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:45"},{"StoryDNA":"And for the belief that somehow someone somewhere could have a better life because of their actions in that moment.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:45"},{"StoryDNA":"\"The thinkers and visionaries","VersionDate":" the artists and builders","CreationTime(PDT)":" and all of those that have ever participated in a movement to change things.\""},{"StoryDNA":"We feel them with us today.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:46"},{"StoryDNA":"Their light was meant to right a wrong.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:46"},{"StoryDNA":"\"We stand shouldered up in peace","VersionDate":" love and art.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"\"We stand shouldered up in peace","VersionDate":" love and art. The thinkers and visionaries","CreationTime(PDT)":" the artists and builders"},{"StoryDNA":"We feel you. ","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:57"},{"StoryDNA":"We hear you.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:57"},{"StoryDNA":"We see you.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:57"},{"StoryDNA":"We understand that justice is about making right what is wrong. ","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:57"},{"StoryDNA":"That you also long to shine your light and know that it was received and made a difference.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:57"},{"StoryDNA":"To create an art is an act of love.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:58"},{"StoryDNA":"And to know that somehow someone somewhere will have a better life because of your actions in this moment and what you have started will keep going.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"11:58"},{"StoryDNA":"\"We stand shouldered up huddled in peace","VersionDate":" love and art.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"\"The thinkers and visionaries","VersionDate":" the artists and builders","CreationTime(PDT)":" and all of those that have ever participated in a movement to change things are here"},{"StoryDNA":"\"We acknowledge your love","VersionDate":" we receive it","CreationTime(PDT)":" and we love you"},{"StoryDNA":"\"That to create an art as an act of love","VersionDate":" a sacred ritual.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"\"We stand shouldered up huddled in peace","VersionDate":" love and art. The thinkers and visionaries","CreationTime(PDT)":" the artists and builders"},{"StoryDNA":"\"That to create your art was an act of love","VersionDate":" a sacred ritual worthy of nobility.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"Somehow someone somewhere will have a better life because of your actions in this moment and what you have started will keep going.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:05"},{"StoryDNA":"We are one in this moment.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:05"},{"StoryDNA":"Gathering strength to keep going.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:05"},{"StoryDNA":"Listening and sharing stories in the warmth of a shared moment of love.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:05"},{"StoryDNA":"Listening and sharing stories in the warmth.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:05"},{"StoryDNA":"\"This is love","VersionDate":" and it feels like things are changing.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"\"We stand as individuals shouldered up huddled in a glow","VersionDate":" a warmth filled by hearts-full of peace","CreationTime(PDT)":" love and art.\""},{"StoryDNA":"We need this moment.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:07"},{"StoryDNA":"We need some rest from despair.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:07"},{"StoryDNA":"Justice is making what is wrong right.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:08"},{"StoryDNA":"The light of love breaks the dawn.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:09"},{"StoryDNA":"\"Art is love","VersionDate":" worthy of spirit.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"\"Among us","VersionDate":" warmth filled by hearts-full of peace","CreationTime(PDT)":" love and art.\""},{"StoryDNA":"Among us warmth and togetherness.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:10"},{"StoryDNA":"\"A breath of fresh air","VersionDate":" a longing to end despair.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"Mount justice is making what is wrong right.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:11"},{"StoryDNA":"Mount justice is making what is wrong a right.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:12"},{"StoryDNA":"The light of love breaks through.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:12"},{"StoryDNA":"Art is a blueprint up.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:12"},{"StoryDNA":"Our spirits are high.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:26"},{"StoryDNA":"\"The thinkers and visionaries","VersionDate":" the artists and builders","CreationTime(PDT)":" and those that participated and need change"},{"StoryDNA":"\"","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:26"},{"StoryDNA":"\"A breath of fresh air","VersionDate":" a longing for this love to end despair.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"But another mountaintop calls.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:29"},{"StoryDNA":"Justice must prevail.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:29"},{"StoryDNA":"\"We must brave on","VersionDate":" a courage to create.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"Somehow someone somewhere will have a better life because of you.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:29"},{"StoryDNA":"Actions are love.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:29"},{"StoryDNA":"To be one is to take strength and keep going.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:29"},{"StoryDNA":"We must awaken.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:29"},{"StoryDNA":"Fresh air longing for this love to end despair.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:32"},{"StoryDNA":"Love is an art.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:32"},{"StoryDNA":"To be one is for one of us to leave us.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:33"},{"StoryDNA":"To awaken their movement.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:33"},{"StoryDNA":"We are with you.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:33"},{"StoryDNA":"We will be here for you.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:33"},{"StoryDNA":"We honor you.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:33"},{"StoryDNA":"\"We must brave on","VersionDate":" and have the courage to create.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"To bring them home.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:35"},{"StoryDNA":"\"The thinkers and visionaries","VersionDate":" the artists and builders","CreationTime(PDT)":" those that participate and need change will be here"},{"StoryDNA":"Another mountaintop calls.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:35"},{"StoryDNA":"\"You must brave on","VersionDate":" and have the courage to create.\"","CreationTime(PDT)":"Oct 04 2022"},{"StoryDNA":"You must have courage to create so others climb.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:36"},{"StoryDNA":"Somehow someone somewhere will have a better life because of it.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:36"},{"StoryDNA":"To be at home.","VersionDate":"Oct 04 2022","CreationTime(PDT)":"20:36"},{"StoryDNA":"You must have courage to create so others make it.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"14:54"},{"StoryDNA":"You must have courage to create so others can make it.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"14:54"},{"StoryDNA":"You must have courage to create.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"14:55"},{"StoryDNA":"The heroes need a hand.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"14:55"},{"StoryDNA":"Somehow someone somewhere will have a better life.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"14:55"},{"StoryDNA":"You have love to share.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"14:55"},{"StoryDNA":"\"When it is your moment to go","VersionDate":" we will understand.\"","CreationTime(PDT)":"Oct 05 2022"},{"StoryDNA":"\"When it is your moment to go","VersionDate":" to stand up for them","CreationTime(PDT)":" we will understand.\""},{"StoryDNA":"\"We stand as individuals shouldered up huddled in a glow. Among us warmth and togetherness. Our spirits are high. The thinkers and visionaries","VersionDate":" the artists and builders","CreationTime(PDT)":" those that participate and need change will be here"},{"StoryDNA":"\"","VersionDate":"Oct 05 2022","CreationTime(PDT)":"15:25"},{"StoryDNA":"Among us warmth and belonging.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:50"},{"StoryDNA":"You are not alone.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:51"},{"StoryDNA":"Fresh air of hope longing for this love to end despair.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:51"},{"StoryDNA":"Fresh air longing for this love to end despair.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:51"},{"StoryDNA":"A new dawn.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:51"},{"StoryDNA":"Take this courage and create.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:52"},{"StoryDNA":"The heroes beyond need a hand.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:52"},{"StoryDNA":"You are love to share.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:52"},{"StoryDNA":"You must share your light.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:52"},{"StoryDNA":"\"When the time comes","VersionDate":" and it is your moment to go","CreationTime(PDT)":" to stand up for them"},{"StoryDNA":"You are not alone in a longing for this love to end despair.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:54"},{"StoryDNA":"To inspire a new dawn.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:54"},{"StoryDNA":"The work to inspire a new dawn is upon us.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:54"},{"StoryDNA":"Another mountaintop calls us to climb.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:54"},{"StoryDNA":"\"When you feel your moment to stand up for them","VersionDate":" we will understand.\"","CreationTime(PDT)":"Oct 05 2022"},{"StoryDNA":"\"When you feel your moment","VersionDate":" we will understand why you must go.\"","CreationTime(PDT)":"Oct 05 2022"},{"StoryDNA":"To create.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:57"},{"StoryDNA":"To awaken.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:57"},{"StoryDNA":"To give a hand to those heroes.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:57"},{"StoryDNA":"Justice is why you must share your light.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"18:58"},{"StoryDNA":"The work to AWAKEN is upon us.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"19:02"},{"StoryDNA":"To give a loving hand to those heroes on your mountain.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"19:03"},{"StoryDNA":"To share your light is to lead us home.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"19:03"},{"StoryDNA":"We will stand with you.","VersionDate":"Oct 05 2022","CreationTime(PDT)":"19:03"},{"StoryDNA":"It feels like we all made it.","VersionDate":"Oct 06 2022","CreationTime(PDT)":"10:37"},{"StoryDNA":"\"The thinkers and visionaries","VersionDate":" the artists and builders","CreationTime(PDT)":" those that participate and need change will be here"},{"StoryDNA":"\"Warm spirits","VersionDate":" a sense of acceptance","CreationTime(PDT)":" belonging and oneness.\""},{"StoryDNA":"We made it.","VersionDate":"Oct 06 2022","CreationTime(PDT)":"10:39"},{"StoryDNA":"\"Warm spirits","VersionDate":" a sense of acceptance and belonging.\"","CreationTime(PDT)":"Oct 06 2022"},{"StoryDNA":"\"Warm spirits","VersionDate":" a genuine sense of acceptance and belonging.\"","CreationTime(PDT)":"Oct 06 2022"},{"StoryDNA":"Are we still dreaming?","VersionDate":"Oct 06 2022","CreationTime(PDT)":"10:41"},{"StoryDNA":"Or did we make it?","VersionDate":"Oct 06 2022","CreationTime(PDT)":"10:41"},{"StoryDNA":"An alliance in diversity.","VersionDate":"Oct 06 2022","CreationTime(PDT)":"10:43"},{"StoryDNA":"A common language of creativity and care.","VersionDate":"Oct 06 2022","CreationTime(PDT)":"10:43"},{"StoryDNA":"\"The thinkers and visionaries","VersionDate":" the artists and builders","CreationTime(PDT)":" the storytellers and beat makers. "},{"StoryDNA":"\"","VersionDate":"Oct 06 2022","CreationTime(PDT)":"10:43"},{"StoryDNA":"\"In diversity","VersionDate":" an alliance.\"","CreationTime(PDT)":"Oct 06 2022"},{"StoryDNA":"Our native tongue is our passion and creativity.","VersionDate":"Oct 06 2022","CreationTime(PDT)":"10:44"},{"StoryDNA":"\"The thinkers and visionaries","VersionDate":" the artists and builders","CreationTime(PDT)":" the storytellers and beat makers; yeah"},{"StoryDNA":"\"Warm spirits awakened","VersionDate":" a genuine sense of acceptance and belonging.\"","CreationTime(PDT)":"Oct 07 2022"},{"StoryDNA":"Warm spirits awakened.","VersionDate":"Oct 07 2022","CreationTime(PDT)":"20:58"}]
+//David All, @DavidAll, #DavidAll6016
+//The Essence of Storytelling
+//Markmaking is personal, intentional and a lifetime craft. The same is true of storytelling. For this generative art sketch, I referenced primitive storytellers that lit a fire in a cave to share laughter, tales of great hunts and ideas for their future. Marks were made to tell stories with shadows projected to cave walls and organic materials made marks longer-lasting. Today, markmaking with code can embody ephemeral experiences and organic properties. With this exercise, I used P5js to digitally craft, carve and perhaps shadow-cast, a story. To achieve my purpose, I expressed with textures, shapes, patterns, false dimension shift and transformation. At first, the program paints a broad stroke to capture the listeners attention. With patience, the program reveals a deeper meaning through a second softer mark; a shadow cast on the wall, ancient marks remaining in a cave, or even the concept of a lasting impact of one's own life story. Though the canvas is 2-dimensional by design, a sculptural object reliably takes shape. Choices I made include contrasting backgrounds with rich paints and experimenting with various methods to combine into a textured stroke. I achieved ephemerality with randomness, with seeds like Random() and Noise() and carefully selected palettes with a range for the program to choose from. Each experience is unique to the listener. A conditional statement was used to delay the start of the essence of the story -- painted with a dragged pixel moved by Noise(). This adds subtly, and its disorientation adds a new vantage point as it appears above, behind, or intwined. Given my novice skills, I aimed to keep the program simple, constrained to code I am starting to understand, and a concept to build upon. 
+
+//ISSUES && IDEAS TO EXPLORE 
+// (1)Code receives an error in console, yet works as expected: fill(random(_theme.colors, Array[4])); (2) Mapping color palette throughout the broad stroke to add 'life moments'; (3) Not limiting colors to Setup(); (4) Create light affect to cast shadows.
+
+
+//thanks to 0x113, imgreg.eth, trad0r and the Mathcastles Computing Arts fam!
+
+// USE
+// ✓   at least one conditional statement
+// ✓   random() or noise()
+// ✓   a small color palette that you build by sampling from any artwork
+// ✓   bonus: createCanvas(), translate(), and/or rotate()
+// ✓   bonus: use 2 or more palettes and switch between them
+
+const THEME = [
+  {
+    name: "Tug Boat",
+    bg: ["#050A30"],
+    stroke: ["#264FAC"],
+    colors: ["#fed9b7", "#00afb9", "#fdfcdc", "#0081a7", "#f07167"],
+  },
+  {
+    name: "Something Human",
+    bg: ["#597D80"],
+    stroke: ["#E17A65"],
+    colors: ["#E2DFDB", "##F5F5F5", "#C35947", "#ffffff", "#fdfcdc"],
+  },
+  {
+    name: "Fly Eater",
+    bg: ["#9C9495"],
+    stroke: ["#B3F01F"],
+    colors: ["#264FAC", "#f00c93", "#D43A91", "#2FF3E0", "#050A30"],
+  },
+];
+
+let t = 0;
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
-    //noiseSeed(250);
-    //colorMode(HSB, 100);
-    frameRate(2);
-  }
-
-function draw() {
-  background(20);
-  
-  let rn = Math.floor(Math.random() * json.length);
-
-  textSize(46);
-  textAlign(CENTER, CENTER);
-  text(json[rn].StoryDNA, (width / 2), (height / 2));
-  textWrap(WORD);
-  fill(245);
-  noStroke();
+  createCanvas(800, 800);
+  const _theme = random(THEME);
+  stroke(_theme.stroke[0]);
+  fill(random(_theme.colors, Array[4]));
+  strokeWeight(0.25);
+  background(_theme.bg[0]);
+  let seed = random(100000);
+  noiseSeed(seed);
 }
 
+function draw() {
+  let x = noise(t) * width;
+  let y = noise(t + 10) * width;
 
+  //paint essence
+  if (t > 1) {
+    point(y + PI, x / PI);
+  }
 
-// let t = 0
+  //paint broad stroke
+  arc(x, y, 30, 10, 0, PI);
+  point(x, y);
 
-// function setup() {
-//   createCanvas(400, 400);
-//   noiseSeed(250);
-//   colorMode(HSB, 100);
-// }
-
-// function draw() {
-// let smoothX = noise(t) * 100;
-// let smoothY = noise(t + 10) * 100;
-// background(22);
-
-// stroke(240, 0, 0);
-// strokeWeight(3);
-// noFill();
-// ellipse(smoothX, smoothY, 50, 50);
-
-// noStroke();
-// fill(random(360), 100, 100);
-// rect(smoothX, smoothY, 10, 10);
-
-// rect((smoothX + 200), smoothY, 10, 10);
-
-
-// t = t + .003
-// }
+  t = t + 0.002;
+  //console.log(t);
+}
