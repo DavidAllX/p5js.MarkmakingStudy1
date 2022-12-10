@@ -1,0 +1,22 @@
+let csvToJson = require('convert-csv-to-json');
+let jsonArr = csvToJson.fieldDelimiter(',').getJsonFromCsv("AWAKEN.csv");
+console.log(jsonArr);
+
+
+function setup() {
+    createCanvas(400, 400);
+    noiseSeed(250);
+    colorMode(HSB, 100);
+  }
+
+  let strArr = ["David Is Awesome.", "Jake is Awesomer"];
+
+function draw() {
+  background(220);
+  
+  let rn = Math.floor(Math.random() * strArr.length);
+  
+  textSize(32);
+  text(strArr[rn], 30, 30);
+  fill(0, 102, 153);
+}
